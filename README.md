@@ -7,11 +7,13 @@
 ### **Disclaimer** 
 
 This is not intended for the current situation; it is merely a proposal for future prevention.
+I believe we cannot totally rely on the social media for the legit information. We need a system that will serve as a backbone of legit information. So that,
+we can check against that system and we can blacklist them on the system on which the data cannot be tempered and mutable
 I am trying to build the prototype by using the ethreum cryptography standard.
 
 ### **Executive Summary**
 
-This white paper presents a decentralized digital identity (DID) framework that leverages cryptographic principles and blockchain technology to mitigate systemic fraud in humanitarian aid distribution. Given the recurring challenges in Myanmar under military governance, this framework aims to establish transparent, tamper-proof verification mechanisms for beneficiaries while enabling auditable fund tracking. This proposal directly addresses documented failures in recent aid initiatives, including the 2023 Binance donation incident, where fraudulent actors exploited weak identity verification protocols, leading to significant misallocation of funds.
+This white paper presents a decentralized digital identity (DID) framework that leverages cryptographic principles and blockchain technology to mitigate systemic fraud in humanitarian aid distribution. Given the recurring challenges in Myanmar under military governance, this framework aims to establish transparent, tamper-proof verification mechanisms for beneficiaries while enabling auditable fund tracking. This proposal directly addresses documented failures in recent aid initiatives, including all of the online fraud and fake information spreading acc on social media, where fraudulent actors exploited weak identity verification protocols, leading to significant misallocation of funds.
 
 ---
 
